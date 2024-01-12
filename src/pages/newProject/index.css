@@ -1,0 +1,14 @@
+form {
+    width: 50vw;
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 10px;
+    background: floralwhite;
+    height: 80svh;
+}
+
+form input {
+    width: 80%;
+    position: relative;
+    left: 10%;
+}
